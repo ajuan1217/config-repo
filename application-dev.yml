@@ -1,0 +1,8 @@
+nacos:
+  config:
+    demo:
+      message: "Hello from GitHub"
+      refreshInterval: 30
+      featureToggle:
+        newPayment: true
+        darkMode: false
